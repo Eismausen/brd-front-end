@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.GameCard {
+  width: 100%;
+  max-width: 400px;
+  max-height: 648px;
+}
+
+.GameCard img {
+  width: 100%;
+  max-width: 200px;
+  max-height: 324px;
+}

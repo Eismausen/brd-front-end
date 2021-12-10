@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+#GameCard {
+  width: 100%;
+  max-width: 400px;
+  max-height: 648px;
+  margin: 5px;
+  padding: 5px;
+  border-style: dotted;
+}
+
+#GameCard button {
+  width: 20%;  
+}
+
+#GameCard img {
+  width: 100%;
+  max-width: 200px;
+  max-height: 324px;
+}
+
+#ExpandedCard {
+  width: 100%;
+  max-width: 600px;
+  max-height: 1296px;
+  margin: 5px;
+  padding: 5px;
+  border-style: double;
+}
+
+#ExpandedCard img {
+  width: 100%;
+  max-width: 400px;
+  max-height: 648px;
+}
